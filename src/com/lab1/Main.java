@@ -1,4 +1,4 @@
-// Name       : Yash Pandey (github.com/EmperorYP7)
+// Name       : Yash Pandey (https://github.com/EmperorYP7)
 // Roll Number: 2019UGCS039R
 // Subject    : Parallel and Distributed Computing
 // Lab 1      : Construct an algorithm to show total number of threads and their thread IDs.
